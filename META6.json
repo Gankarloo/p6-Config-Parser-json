@@ -1,7 +1,7 @@
 {
   "name": "Config::Parser::json",
   "description": "JSON parser for Config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "perl": "6.*",
   "authors": "Arjan Widlak <arjan@unitedknowledge.nl",
   "auth": "github:arjancwidlak",
